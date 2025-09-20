@@ -24,6 +24,11 @@
                     <h1 style="color: white;position: absolute;top: 0;width: 100vw;text-align: center;"> DEV PAGE</h1>
                 </td>
             </tr>
+            <tr>
+                <td>
+                    <a href="/dev-ar">To Arabian version</a>
+                </td>
+            </tr>
 
         </table>
 
