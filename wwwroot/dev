@@ -16,12 +16,7 @@
         <table style="width:100%; height: 100vh; position: absolute; left:0; top:0">
             <tr>
                 <td>
-                    <a style="color:white" href="/dev-ar">To Arabian version</a>
-                    <a style="color:white; margin-left: 10px" href="https://jetdev.eu/dev">To GPT4 En Version</a>
-                    <a style="color:white; margin-left: 10px" href="https://gpt5-dg.jetdev.eu/dev">To GPT5 En
-                        Version</a>
-                    <a style="color:white; margin-left: 10px" href="https://gpt5-mini-dg.jetdev.eu/dev">To GPT5 Mini En
-                        Version</a>
+
                 </td>
             </tr>
             <tr>
