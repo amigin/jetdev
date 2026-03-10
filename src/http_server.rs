@@ -5,7 +5,7 @@ use my_http_server::MyHttpServer;
 use crate::app_ctx::AppContext;
 
 pub fn start(app: &AppContext) {
-    let mut http_server = MyHttpServer::new(SocketAddr::from(([0, 0, 0, 0], 8082)));
+    let mut http_server = MyHttpServer::new(SocketAddr::from(([0, 0, 0, 0], 8080)));
 
     let static_files = my_http_server::StaticFilesMiddleware::new(
         
